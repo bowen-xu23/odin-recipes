@@ -1,0 +1,40 @@
+@import url('https://fonts.cdnfonts.com/css/lucida-handwriting-std');
+
+body {
+    background-color: antiquewhite;
+    width: 1200px;
+}
+
+h2,
+h1 {
+    font-family: "Lucida Handwriting Std", cursive;
+    font-size: large;
+    margin: 15px;
+}
+
+h1 {
+    text-align: center;
+    color: navy;
+}
+
+h2 {
+    color: olive;
+}
+
+.container {
+    text-align: center;
+    padding: 10px auto;
+    margin: 10px auto;
+}
+
+.pic-note {
+    display: block;
+    font-family: "Lucida Handwriting Std", cursive;
+    font-size: x-small;
+    color:maroon;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
